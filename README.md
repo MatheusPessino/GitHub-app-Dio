@@ -6,4 +6,4 @@ O projeto consiste numa interface que usa a api do Github para trazer as informa
 
 Preview do projeto:
 
-![](Image/print.jpg)
+![](Image/Print.jpg)
